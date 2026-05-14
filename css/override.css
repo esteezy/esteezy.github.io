@@ -44,6 +44,10 @@ hr {
   opacity: 0.3;
 }
 
+#share-buttons {
+  white-space: nowrap;
+}
+
 #share-buttons > div {
   width: 50px;
 }
