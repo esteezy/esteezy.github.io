@@ -1,3 +1,3 @@
-&emsp; I'm Evan. Currently, I'm an engineer working on aircraft test systems as a Systems Software Engineer.
-Previously, I worked in the semiconductor industry on opposite ends of the manufacturing process.
-At Wolfspeed, I worked in foundry as a Process Developement Engineer. They went bankrupt, wasn't a fan and didn't stay long...a story for another day. At Intel, I worked on the opposite spectrum as a Product Development Engineer in Die Sort. Favorite job so far, solid company to work for (btw: hold on to your RSUs).
+&emsp; Hello. I'm Evan, and this is more or less a platform for me to displace the things I ruminate over incessantly.
+
+I'm a computer engineer, following the mantra "Jack of All Trades, Master of None." Though, I expect that to change at some point.
