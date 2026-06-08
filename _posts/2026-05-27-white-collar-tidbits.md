@@ -18,4 +18,6 @@ I think this is just going to serve as a continuing repository of ridiculous, fu
 - Senior engineer granted $6mil to develop an automation project, but he was the only one working on it. That project was later scrapped.
 - Company filed Chapter 11 bankruptcy after I quit.
 - Engineer asked if we could get more bathrooms in the office during a company quarterly review, right after management showed how much cap-ex was being burned through.
-- 
+
+
+
