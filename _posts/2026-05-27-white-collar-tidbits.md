@@ -6,7 +6,8 @@ I think this is just going to serve as a continuing repository of ridiculous, fu
 - 
 
 ### 2025
-- 
+- Fed Engineering doesn't ever return purchases. If you buy something and end up not needing it, you just kind of keep it until enough time has passed where you (or someone else) feels comfortable enough to throw it away.
+- Everything in Fed is contracted out, and those contractors contract out most of the contract work to sub contractors who likely will contract out other contractors to complete sub contract work.
 
 ### 2024
 - Management blaming the employee who electricuted himself to death working on one of the substations that probably needed an overhaul (it alarmed all the time), OSHA fined the company $10k, employees raised a gofundme to help put his kid through college.
