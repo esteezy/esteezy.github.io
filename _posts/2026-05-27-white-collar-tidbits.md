@@ -3,7 +3,7 @@
 I think this is just going to serve as a continuing repository of ridiculous, funny, odd, or frustrating stories I've experienced first hand in the corporate world.
 
 ### 2026
-- 
+- I just realized on (06/23/26) that I haven't been in a meeting in.....6 months? It might be more....wow lol
 
 ### 2025
 - Fed Engineering doesn't ever return purchases. If you buy something and end up not needing it, you just kind of keep it until enough time has passed where you (or someone else) feels comfortable enough to throw it away.
