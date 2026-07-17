@@ -3,7 +3,7 @@
 I think this is just going to serve as a continuing repository of ridiculous, funny, odd, or frustrating stories I've experienced first hand in the corporate world.
 
 ### 2026
-- Paying someone to set up a router to connect to the private network for our office and having them manually enter every laptop's MAC address to the list of permitted devices (mine wasn't added). Nice.
+- Paying someone to set up a router to connect to the private network for our office and having them manually enter every laptop's MAC address to the list of permitted devices (mine wasn't added). Nice. Looked it up, seems like this is called Whitelisting MAC addresses. Seems like there could (should) be a better solution. We literally use credential based management for everything
 - I just realized on (06/23/26) that I haven't been in a meeting in.....6 months? It might be more....wow lol
 - Fed Engineering doesn't ever return purchases. If you buy something and end up not needing it, you just kind of keep it until enough time has passed where you (or someone else) feels comfortable enough to throw it away.
   
